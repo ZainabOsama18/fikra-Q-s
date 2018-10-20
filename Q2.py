@@ -1,6 +1,8 @@
 #read from the keybord
-z=int(input("insert the num"))
-print(z)
+int m=11
+for i in range (m)
+z[i]=int(input("insert the num"))
+print(z[i])
 
 if z==0:
     print('zero')
